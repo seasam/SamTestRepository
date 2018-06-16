@@ -6,8 +6,16 @@ package abc.abc1;
  */
 public class App 
 {
-    public static void main( String[] args )
+    
+	public void hex( )
+    {
+        System.out.println( "Hex World!" );
+    }
+	
+	public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
+    
+    
 }
